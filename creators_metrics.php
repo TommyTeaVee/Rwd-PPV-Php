@@ -27,6 +27,11 @@ $reward_multipliers = array(
         'other' => 0.5
     ),
     'location' => array(
+        'Africa' => 2,
+        'Thailand' => 1.5,
+        'China' => 1.2,
+        'Morocco' => 1.5,
+        'Indonesia' => 1.2,
         'US' => 1.2,
         'UK' => 1.1,
         'Canada' => 1,
